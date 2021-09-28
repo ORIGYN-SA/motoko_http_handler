@@ -77,7 +77,7 @@ actor {
         if(path == "/big_file") {
             // TODO: example of response with streaming_strategy
             // that returns a large file in streaming mode
-        }
+        };
 
 
         return {
